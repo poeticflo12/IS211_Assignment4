@@ -106,7 +106,7 @@ def main():
             bsr_sum = bsr_sum + bsr_return[1]
             bsi_sum = bsi_sum + bsi_return[1]
 
-        # calculated the average for the 100 lists
+        # calculating the average for the 100 lists
 
         average_ss = ss_sum / 100
         average_oss = oss_sum / 100
